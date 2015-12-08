@@ -24,7 +24,7 @@ void testGraph5(Graph* G);
 int main()
 {
 	Graph* G = new Graph();
-	testGraph1(G);
+	testGraph2(G);
 	
 	//Graph Voodoo
 	G->identifyVertices();								
